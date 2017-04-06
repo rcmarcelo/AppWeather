@@ -6,6 +6,6 @@ It has a single way to use: just type any brazilian city name and the app will r
 
 Well, I guess you already noticed that you'll need React Native, so, you can learn more about it on http://facebook.github.io/react-native.
 
-Aditionally, if you wish, here's everything about OpenWeather API: https://openweathermap.org/api.
+Additionally, if you wish, here's everything about OpenWeather API: https://openweathermap.org/api.
 
 If you rather, you can also download the source files here: https://goo.gl/DN6k4o
