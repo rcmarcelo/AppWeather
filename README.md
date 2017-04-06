@@ -4,6 +4,6 @@ Hey! So, here's what you need to know: This repository contains the source of a 
 
 It has a single way to use: just type any brazilian city name and the app will receive the respective weather data through OpenWeather API and show it to you.
 
-Well, I guess you already noticed that you'll need React Native, so you can learn more about it on http://facebook.github.io/react-native.
+Well, I guess you already noticed that you'll need React Native, so, you can learn more about it on http://facebook.github.io/react-native.
 
 Aditionally, if you wish, here's everything about OpenWeather API: https://openweathermap.org/api.
